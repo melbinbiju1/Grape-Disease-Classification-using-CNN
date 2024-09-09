@@ -19,6 +19,7 @@ This project utilizes Convolutional Neural Networks (CNNs) to classify grape lea
 - Scikit-learn
 
 Install the dependencies:
+
 pip install tensorflow keras numpy matplotlib scikit-learn
 
 ## Clone the Repository
