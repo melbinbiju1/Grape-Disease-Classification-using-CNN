@@ -19,15 +19,12 @@ This project utilizes Convolutional Neural Networks (CNNs) to classify grape lea
 - Scikit-learn
 
 Install the dependencies:
-
-```bash
 pip install tensorflow keras numpy matplotlib scikit-learn
 
 ## Clone the Repository
-```bash
-Copy code
 git clone https://github.com/yourusername/grape-disease-classification.git
 cd grape-leaf-disease-classification
+
 ## Dataset
 Ensure your images are organized into dataset/train, dataset/validation, and dataset/test directories by class.
 
