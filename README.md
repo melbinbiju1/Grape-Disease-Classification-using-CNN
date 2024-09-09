@@ -22,8 +22,7 @@ Install the dependencies:
 pip install tensorflow keras numpy matplotlib scikit-learn
 
 ## Clone the Repository
-git clone https://github.com/yourusername/grape-disease-classification.git
-cd grape-leaf-disease-classification
+git clone https://github.com/melbinbiju1/Grape-Disease-Classification-using-CNN.git
 
 ## Dataset
 Ensure your images are organized into dataset/train, dataset/validation, and dataset/test directories by class.
